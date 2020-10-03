@@ -1,0 +1,5 @@
+# for java files
+*.class
+
+# for c and cpp
+*.exe
